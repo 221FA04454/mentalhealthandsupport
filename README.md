@@ -1,29 +1,3 @@
-Got it 👍 — you want to **create and upload the README.md file directly in your GitHub repository**, *without using the terminal*.
-
-Here’s how you can do that **step by step** 👇
-
----
-
-## 🧭 **Steps to Create README.md Directly on GitHub**
-
-1. **Open your repository**
-   👉 [https://github.com/221FA04454/mentalhealthandsupport](https://github.com/221FA04454/mentalhealthandsupport)
-
-2. On the repository page, click:
-   **“Add file” → “Create new file”**
-
-3. In the filename box, type:
-
-   ```
-   README.md
-   ```
-
-4. Copy and paste the following content into the editor:
-
----
-
-### 🩺 **README.md**
-
 ````markdown
 # 🩺 Mental Health & Support
 
@@ -145,3 +119,4 @@ You’re free to use, modify, and distribute this project with attribution.
 > *“Mental wellness is not a luxury; it’s a necessity. Let’s make technology a helping hand for everyone.”*
 
 ```
+
